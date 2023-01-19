@@ -8,7 +8,32 @@ This may include:
 - Quizes
 - Exams / Exams Solutions
 
+## Online Resources / Youtube Channels: 📕📺
+
+1. ### Linear Algebra
+   - <a href = "https://www.youtube.com/watch?v=LHsPJ2bQX1U&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK" >Kimberly Brehm<a>
+   - <a href = "https://www.youtube.com/watch?v=ZKUqtErZCiU&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6" >Dr. Trefor Bazzet<a>
+   
+2. ### Data Structures
+   - <a href = "https://www.youtube.com/watch?v=XCyuHSJS7XE&list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG" >Simple Snippets<a> 
+   - <a href = "https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi" > Code With Harry <a>
+   - <a href = "https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ" > Apna College <a> (great for quick revision)
+
+3. ### Computer Organization And Assembly Language
+   - <a href = "https://www.youtube.com/watch?v=eobVpYqvMGE&list=PLnd7R4Mcw3rJCvAduQxyySvejtBIaPs0O" >Dr. Nauman Fast Peshawar <a>
+   - <a href = "https://www.youtube.com/watch?v=SL--qoiu7yA&list=PLR2FqYUVaFJpHPw1ExSVJZFNlXzJYGAT1" >Programology <a>
+   
+4. ### Discrete Structures / Maths
+   - <a href = "https://www.youtube.com/watch?v=p2b2Vb-cYCs&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" > Neso Academy <a>
+
+
+
+
+<hr>
+
 Its possible that some stuff may be missing.
+
+<hr>
 
 ## How to contribute ? 🤔 
 
